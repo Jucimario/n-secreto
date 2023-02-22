@@ -12,4 +12,4 @@ function gerarNumeroAleatorio() {
 elementoMenorValor.innerHTML = menorValor;
 elementoMaiorValor.innerHTML = maiorValor;
 
-console.log('Numero Secreto: ' + numeroSecreto);
+//console.log('Numero Secreto: ' + numeroSecreto);
